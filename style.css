@@ -31,7 +31,7 @@ main{
 }
 
 #img{
-    background-image: url(images/image-header-desktop.jpg);
+    background-image: url(image-header-desktop.jpg);
     width: 38vw;
     height: auto;
     box-shadow: inset 0 0 0 2000px hsla(277, 64%, 41%, 0.7);
@@ -100,7 +100,7 @@ p{
         width: 86vw;
         height: 63vw;
         max-height: 300px;
-        background-image: url(images/image-header-mobile.jpg);
+        background-image: url(image-header-mobile.jpg);
         background-repeat: no-repeat;
         border-radius: 10px 10px 0px 0px;
         background-size: 86vw;
